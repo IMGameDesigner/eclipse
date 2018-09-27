@@ -1,0 +1,4 @@
+[公共区M.java：]
+public static int a;
+[线程：]
+synchronized(M.a){M.a++;}
